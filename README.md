@@ -191,5 +191,3 @@ Sample labels are inherited from the original dataset. Images have generic filen
 ## License
 
 No code or data license is currently included. Redistribution terms must be specified by the respective rights holders.
-#   E C G - D U E T  
- 
