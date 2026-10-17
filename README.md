@@ -187,7 +187,3 @@ requirements.txt        Dependency constraints
 The sample images enable workflow testing; the full dataset, historical results, and pretrained study checkpoints are not distributed. Dependency ranges are provided in `requirements.txt`; record exact installed versions for each experiment. The current split, cache behavior, and reporting assumptions are documented in [experiment notes](docs/experiment_notes.md).
 
 Sample labels are inherited from the original dataset. Images have generic filenames and no embedded metadata; public redistribution permission must be established by the data owner. See the [sample documentation](examples/sample_data/README.md).
-
-## License
-
-No code or data license is currently included. Redistribution terms must be specified by the respective rights holders.
